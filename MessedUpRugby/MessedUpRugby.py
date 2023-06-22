@@ -1,7 +1,7 @@
 import time
 start_time = time.time()
 
-data = 250
+data = 550
 
 conversion = 7
 tries = 3
